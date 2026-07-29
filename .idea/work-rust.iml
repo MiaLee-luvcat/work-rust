@@ -5,9 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$/c1_hello/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c2_euler/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/c3_1_main_fn_return/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/c3_2_variable_constant/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/c1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/c2_euler/target" />
       <excludeFolder url="file://$MODULE_DIR$/c3_1_main_fn_return/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c3_2_variable_constant/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
